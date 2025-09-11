@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-home",
+      "description": "Abstract network of interconnected nodes, representing career paths and connections.",
+      "imageUrl": "https://picsum.photos/seed/hero1/600/200",
+      "imageHint": "abstract network"
+    },
+    {
+      "id": "mentor-1",
+      "description": "Portrait of a female software engineer.",
+      "imageUrl": "https://picsum.photos/seed/m1/200/200",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "mentor-2",
+      "description": "Portrait of a male product manager.",
+      "imageUrl": "https://picsum.photos/seed/m2/200/200",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "mentor-3",
+      "description": "Portrait of a female UX designer.",
+      "imageUrl": "https://picsum.photos/seed/m3/200/200",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "mentor-4",
+      "description": "Portrait of a male data scientist.",
+      "imageUrl": "https://picsum.photos/seed/m4/200/200",
+      "imageHint": "man professional"
+    },
+    {
+      "id": "project-1",
+      "description": "A clean and modern e-commerce dashboard interface showing charts and graphs.",
+      "imageUrl": "https://picsum.photos/seed/p1/600/400",
+      "imageHint": "dashboard chart"
+    },
+    {
+      "id": "project-2",
+      "description": "Lines of code on a dark screen, representing an API.",
+      "imageUrl": "https://picsum.photos/seed/p2/600/400",
+      "imageHint": "code api"
+    },
+    {
+      "id": "project-3",
+      "description": "A graph showing the results of an A/B test.",
+      "imageUrl": "https://picsum.photos/seed/p3/600/400",
+      "imageHint": "analytics graph"
+    },
+    {
+      "id": "credential-1",
+      "description": "A digital certificate for React development.",
+      "imageUrl": "https://picsum.photos/seed/c1/600/400",
+      "imageHint": "certificate document"
+    },
+    {
+      "id": "credential-2",
+      "description": "A digital certificate for API Design.",
+      "imageUrl": "https://picsum.photos/seed/c2/600/400",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "assessment-hero",
+      "description": "An illustration of a person at a crossroads with different paths.",
+      "imageUrl": "https://picsum.photos/seed/ah1/600/300",
+      "imageHint": "path choices"
+    },
+    {
+      "id": "learning-path-hero",
+      "description": "A winding road or path leading towards a sunlit horizon.",
+      "imageUrl": "https://picsum.photos/seed/lph1/600/300",
+      "imageHint": "path horizon"
+    }
+  ]
+}
